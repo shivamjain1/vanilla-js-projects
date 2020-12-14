@@ -2,7 +2,7 @@
 A list of my vanilla JS projects implemented by :heart: <br/><br/>
 
 Live Demo of the Above Projects <br/><br/>
-[Split Screen Slider](https://shivamjain1.github.io/vanilla-js-projects/Split%20Screen%20Slider/?target=_blank) <br/>
+<a href="https://shivamjain1.github.io/vanilla-js-projects/Split%20Screen%20Slider/" target="_blank">Split Screen Slider</a> <br/>
     - Batman vs Joker (who do you think gonna win) :sunglasses: :boom: <br/><br/>
 [The Snake Game](https://shivamjain1.github.io/vanilla-js-projects/The%20Snake%20Game/)<br/>
     - Our beloved Nokia 3310 snake game :snake: :snake: <br/><br/>
